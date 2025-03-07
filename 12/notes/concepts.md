@@ -1,0 +1,1 @@
+cors is middleware used to handle cross-origin requests. It allows the backend to accept requests from different origins (e.g., the React app running on localhost:3000 to access the server on localhost:8080).

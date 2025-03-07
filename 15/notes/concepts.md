@@ -1,0 +1,4 @@
+  - `express`: Server-side framework.
+   - `mongodb`: MongoDB client to interact with the database.
+   - `cors`: Middleware to allow cross-origin requests from React to Express.
+   - `multer`: Middleware to handle form data for `POST` and `PUT` requests (used for file uploads, though in this case it's handling form data).

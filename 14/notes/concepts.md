@@ -1,0 +1,3 @@
+  - `express`: Framework to create the server.
+   - `mongodb`: MongoDB client to interact with MongoDB.
+   - `cors`: Middleware to handle cross-origin requests, allowing the React frontend to interact with the backend.
